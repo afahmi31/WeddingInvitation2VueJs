@@ -8,9 +8,8 @@ export default {
   theme: {
     fontFamily: {
       HelveticaNeue: "Helvetica Neue",
-      DancingScript: "Dancing Script",
       PlayfairDisplay: "Playfair Display",
-      Poppins: "Poppins"
+      Ephesis: "Ephesis"
     },
     container:{
       center: true
